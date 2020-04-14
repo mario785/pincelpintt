@@ -1,0 +1,60 @@
+@charset "utf-8";
+/* CSS Document */
+.anime{
+	width: 1200px;
+	margin: 30px auto;
+	overflow: hidden;
+	
+}
+.anime img{
+	float: left;
+}
+.anime h3{
+	color:#100829;
+	text-align: center;
+	font-weight: bold;
+}
+.anime1{
+	width: 30%;
+	margin: 0px 15px 15px 15px
+}
+.anime2{
+	width: 40%;
+	margin: 0px 15px 15px 15px
+}
+.anime3{
+	width: 32%;
+	margin: 0px 15px 15px 15px
+}
+.anime4{
+	width: 30%;
+	margin: 20px 120px 30px 120px
+
+}
+.boton4 ul li{
+	width: 250px;
+	height: 50px;
+	list-style: none;
+	float: left;
+	background-color: #34CBB6;
+	cursor: pointer;
+	transition: background-color 1s;
+	
+}
+.boton4 a{
+	text-align: center;
+	font-size: 2em;
+	font-weight: bold;
+	color: #fff;
+}
+.boton4 ul li a{
+	color:#ffffff;
+	text-decoration: none;
+	margin-right: 20px;
+	font-size: 14px;
+	cursor: pointer;
+}
+.boton4:hover{
+	background-color: #888;
+}
+

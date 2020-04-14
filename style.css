@@ -1,0 +1,66 @@
+@charset "utf-8";
+/* CSS Document */
+h3{
+	font-family: arial;
+	color: #FFFFFF;
+	
+}
+.personas {
+	margin-left: 20px 20px 20px 20px;
+	
+}
+.personas h2{
+	
+	color:#C82B2D;
+	text-align: center;
+	font-weight: bold;
+}
+.persona1{
+	width: 15%;
+	margin: 0px 15px 15px 15px
+}
+.persona2{
+	width: 15%;
+	margin: 0px 15px 15px 0px
+}
+.persona3{
+	width: 15%;
+	margin: 0px 15px 15px 15px
+}
+.persona4{
+	width: 20%;
+	margin: 0px 15px 15px 15px
+}
+.persona5{
+	width: 19%;
+	margin: 0px 15px 15px 15px;
+}
+.boton1 ul li{
+	width: 250px;
+	height: 50px;
+	list-style: none;
+	float: left;
+	background-color: #040360;
+	cursor: pointer;
+	transition: background-color 1s;
+	
+}
+.boton1 a{
+	text-align: center;
+	font-size: 2em;
+	font-weight: bold;
+	color: #fff;
+}
+.boton1 ul li a{
+	color:#ffffff;
+	text-decoration: none;
+	
+	font-size: 14px;
+	cursor: pointer;
+}
+.boton1:hover{
+	background-color: #888;
+}
+.conte {
+	margin: 30px 30px 30px 30px;
+}
